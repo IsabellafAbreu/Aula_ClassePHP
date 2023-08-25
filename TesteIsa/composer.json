@@ -1,0 +1,16 @@
+{
+    "name": "admin/teste-isa",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        
+    },
+    "authors": [
+        {
+            "name": "Isa"
+        }
+    ],
+    "require": {}
+    }
+}

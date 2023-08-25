@@ -9,7 +9,7 @@
 <body>
 
     <?php
-    echo"<p>Peachisa</p>";
+    echo"<h1>Peachisa</h1>";
         include_once "main.php";
     ?>
     
